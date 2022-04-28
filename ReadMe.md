@@ -1,4 +1,4 @@
-## Learn Advance API Authentication with HTTP Header
+## Learn API Authentication with HTTP Header
 
 python requests method documentation :  
 https://docs.python-requests.org/en/latest/api/
